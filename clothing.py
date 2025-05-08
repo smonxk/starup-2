@@ -22,7 +22,6 @@ class ClothingItem:
         return scale_image_by_height(icon_image, icon_height)
 
         #next :
-        # 1. ensure only three icons are next to each other
-        # 2. make rounded corners for icons :)
-        # 3. ensure z-index of top is below the z-index of hair
-        # 4. done button changes game view to final, the selected outfit should be displayed.
+        # 1. done button changes game view to final (new file), the selected outfit should be displayed.
+        # 2.back button to play screen
+        # 3. add attributes to clothes: color and style :) 
